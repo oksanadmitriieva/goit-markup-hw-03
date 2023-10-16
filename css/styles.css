@@ -1,0 +1,188 @@
+
+.link-logo{
+font-family: Raleway, sans-serif;
+font-weight: 700 ;
+font-size: 18px ;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+
+}
+.logo-part-header{
+font-family: Raleway, sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+color:#2e2f42 ;
+}
+.body-descr{
+font-family:Roboto, sans-serif;
+color: #434455;
+background-color: #FFFFFF;
+}
+.menu-link{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px; 
+letter-spacing: 0.32px;
+color: #434455;
+}
+.menu-link-link{
+font-weight: 500; 
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#2e2f42 ;
+
+}
+.menu-link-link:hover{
+color:#404bbf  ;
+    
+}
+.menu-link-link:focus{
+color:#404bbf ;
+}
+.header-adress{
+font-style: normal;
+}
+.header-contacts{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+color: #434455;
+}
+.header-contacts:hover,
+.header-contacts:focus{
+color: #404bbf;
+}
+
+.first-section{
+background-color: #2e2f42;
+}
+.first-section-name{
+text-align: center;
+font-family: Roboto;
+font-size: 56px;
+font-weight: 700;
+line-height: 60px; 
+letter-spacing: 1.12px;
+line-height: 1.07;
+color: #ffffff ;
+}
+.button-descr{
+background-color: #4D5AE5 ;
+font-family: Roboto, sans-serif;
+font-weight: 500 ;
+font-size: 16px ;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer ;
+}
+.button-descr:hover{
+background-color: #404BBF ; 
+}
+.button-descr:focus{
+background-color: #404BBF;
+}
+.second-section-item{
+font-weight: 500 ;
+font-size: 20px ;
+line-height: 1.2; 
+letter-spacing: 0.02em;
+color:#2e2f42 ;
+}
+.second-section-item-descr{
+font-size: 16px;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+color: #434455 ;
+
+}
+.third-section{
+background-color:#F4F4FD ;
+color: #2e2f42; 
+}
+.team-list-item{
+background-color: #FFFFFF;
+}
+.third-section-name{
+font-size: 36px ;
+line-height: 1.11 ;
+text-align: center ;
+letter-spacing: 0.02em ;
+text-transform: capitalize ;
+color: #2e2f42 ;
+}
+.third-section-names{
+font-weight: 500 ;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+color: #2E2F42;
+}
+.section-three-position{
+text-align: center;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+color: #434455;
+}
+.fourth-section-name{
+font-size: 36px;
+line-height: 1.11 ;
+text-align: center;
+text-transform: capitalize;
+color: #2e2f42 ;
+}
+
+.card-content{
+font-size: 20px;
+line-height: 1.2;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+color: #2e2f42;
+}
+.card-content-descr{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+color:#434455;
+}
+
+.page-footer{
+background-color: #2e2f42;
+
+}
+.footer-log{
+font-family: Raleway, sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.span-descr{
+color:#f4f4fd;
+}
+
+.footer-paragraph{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+color: #F4F4FD;
+}
