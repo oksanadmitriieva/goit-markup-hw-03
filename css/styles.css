@@ -20,7 +20,7 @@ padding-left: 0;
 cursor: pointer;
 }
 img{
-display:block;
+display: block;
 }
 .link-logo{
 font-family: Raleway, sans-serif;
@@ -57,7 +57,7 @@ color: #434455;
 .menu-link-link{
 gap: 40px ;
 }
-.visually-hidden{
+.visually-hidden {
 display: none;
 }
 .main-page{
@@ -178,7 +178,8 @@ background-color: #404BBF;
 padding: 120px 0;
 }
 .company-container{
-
+display: flex;
+ flex-direction: column;
 }
 .list-second{
 display: flex;   
