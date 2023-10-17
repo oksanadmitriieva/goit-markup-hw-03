@@ -1,5 +1,6 @@
 .list{
     list-style-type: none;
+    gap: 40px;
 }
 .link {
     text-decoration: none;
@@ -72,12 +73,14 @@ border-bottom: 1px solid #e7e9fc;
 .container {
 max-width: 1158px;
 padding: 0 15px;
- margin: 0 auto;
+margin: 0 auto;
+display: flex;
 }
 
 .main-page-nav{
 display: flex; 
 align-items: center;
+gap: 40px ;
 }
 .link-logo{
     margin-right: 76px;
@@ -133,6 +136,7 @@ line-height: 60px;
 letter-spacing: 1.12px;
 line-height: 1.07;
 color: #ffffff ;
+max-width: 496px;
 
 }
 .button-descr{
@@ -157,6 +161,17 @@ background-color: #404BBF ;
 .button-descr:focus{
 background-color: #404BBF;
 }
+.second-section{
+padding: 120px 0;
+}
+.list-second{
+display: flex;   
+gap: 24px;
+width: calc((100% - 72px) / 4); 
+}
+.second-section-list-item{
+margin-bottom: 8px;
+}
 .second-section-item{
 font-weight: 500 ;
 font-size: 20px ;
@@ -174,9 +189,14 @@ color: #434455 ;
 .third-section{
 background-color:#F4F4FD ;
 color: #2e2f42; 
+padding: 120px 0;
+}
+.list-third{
+gap: 24px;
 }
 .team-list-item{
 background-color: #FFFFFF;
+border-radius: 0px 0px 4px 4px; 
 }
 .third-section-name{
 font-size: 36px ;
@@ -193,6 +213,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 gap: 8px;
+padding: 32px 0 ;
 }
 .third-section-names{
 font-weight: 500 ;
@@ -200,6 +221,8 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em ;
 color: #2E2F42;
+text-align: center; 
+margin-bottom: 8px;
 }
 .section-three-position{
 text-align: center;
@@ -240,6 +263,7 @@ align-items: flex-start;
 gap: 8px;
 align-self: stretch;
 border: 1px solid #e7e9fc;
+border-top: none;
 margin-bottom: 8px ;
 
 }
