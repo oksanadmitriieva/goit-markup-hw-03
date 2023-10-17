@@ -222,7 +222,7 @@ line-height: 1.2;
 letter-spacing: 0.02em ;
 color: #2E2F42;
 text-align: center; 
-margin-bottom: 8px;
+margin-bottom: 8px
 }
 .section-three-position{
 text-align: center;
@@ -230,7 +230,7 @@ font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 color: #434455;
 }
 .fourth-section{
@@ -280,7 +280,7 @@ font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 color:#434455;
 }
 
@@ -309,6 +309,6 @@ font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 color: #F4F4FD;
 }
