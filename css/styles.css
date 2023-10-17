@@ -57,7 +57,7 @@ color: #434455;
 .menu-link-link{
 gap: 40px ;
 }
-.visually-hidden {
+.visually-hidden{
 position: absolute;
 width: 1px;
 height: 1px;
