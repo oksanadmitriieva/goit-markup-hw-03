@@ -3,7 +3,7 @@
     gap: 40px;
 }
 .link {
-    text-decoration: none;
+text-decoration: none;
 }
 h1, h2, h3, h4, p {
 margin-top: 0;
@@ -119,6 +119,9 @@ gap: 40px;
 font-style: normal;
 margin-left: auto;
 }
+.list-header{
+display: flex; 
+}
 .list-header-adress{
 display: flex;
 gap: 40px ;
@@ -214,13 +217,15 @@ background-color:#F4F4FD ;
 color: #2e2f42; 
 padding: 120px 0;
 }
-.list-third{
+.third-list{
 gap: 24px;
 width: calc((100% - 72px) / 4); 
+display: flex;
 }
 .team-list-item{
 background-color: #FFFFFF;
 border-radius: 0px 0px 4px 4px; 
+width: calc((100% - 72px) / 4); 
 }
 .third-section-name{
 font-size: 36px ;
@@ -304,6 +309,7 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em ;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 .card-content-descr{
 font-family: Roboto;
