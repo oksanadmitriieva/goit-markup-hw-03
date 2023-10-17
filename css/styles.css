@@ -141,6 +141,10 @@ color: #404bbf;
 background-color: #2e2f42;
 padding: 188px 0;
 }
+.hero-container{
+display: block;
+text-align: center;
+}
 .first-section-name{
 text-align: center;
 font-family: Roboto;
@@ -177,6 +181,9 @@ background-color: #404BBF;
 }
 .second-section{
 padding: 120px 0;
+}
+.company-container{
+
 }
 .list-second{
 display: flex;   
@@ -254,6 +261,10 @@ color: #434455;
 .fourth-section{
 padding-top: 120px; padding-bottom: 120px;
 }
+.portfolio-container {
+display: flex;
+flex-direction: column;
+}
 .fourth-section-name{
 font-size: 36px;
 line-height: 1.11 ;
@@ -271,6 +282,7 @@ width: calc((100% - 48px) / 3);
 }
 .portfolio-list-item{
 width: calc((100% - 48px) / 3);
+
 }
 .name-app{
 display: flex;
@@ -305,8 +317,11 @@ color:#434455;
 .page-footer{
 background-color: #2e2f42;
 padding: 100px 0;
-
 }
+.page-footer-container{
+ display: inline-block;
+}
+
 .footer-log{
 font-family: Raleway, sans-serif;
 font-weight: 700;
